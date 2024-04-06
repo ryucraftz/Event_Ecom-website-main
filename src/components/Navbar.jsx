@@ -9,7 +9,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-light py-3 sticky-top" style={{ backgroundColor: 'rgba(255, 255, 255, 0.5)', backdropFilter: 'blur(10px)', boxShadow: '0 2px 4px rgba(0,0,0,0.1)' }}>
             <div className="container">
                 <img src="/assets/wedding_rings.svg" alt="Icon" style={{ marginRight: '5px', width: '24px', height: '24px', marginTop: '2px' }} />
-                <NavLink className="navbar-brand fw-bold fs-4 px-0" to="/">Deepak Events</NavLink>
+                <NavLink className="navbar-brand fw-bold fs-4 px-0" to="/">Deepak Tent House</NavLink>
                 <button className="navbar-toggler mx-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
