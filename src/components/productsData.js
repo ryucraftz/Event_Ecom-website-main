@@ -2,7 +2,7 @@ const productsData = [
     {
         "id": 1,
         "title": "Rustic Wedding Centerpieces",
-        "price": 4165.04,
+        "price": 90000,
         "description": "Beautiful rustic centerpieces perfect for adding a touch of charm to your wedding decor. Made from natural wood and adorned with delicate faux flowers.",
         "category": "wedding decorations",
         "image": "https://i.postimg.cc/Fz0MszHy/IMG-20240405-WA0040.jpg",
